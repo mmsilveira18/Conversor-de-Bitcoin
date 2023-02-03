@@ -1,0 +1,41 @@
+body {
+   font-family: "Roboto Mono", monospace;
+   text-align: center;
+   background-image: url("https://wallpapers.com/images/high/floating-bitcoin-art-oyruwti0opdyagzt.webp");
+   background-color: #000000;
+   background-size: cover;
+    background-position: center top;
+   background-repeat: no-repeat;
+   height: 10vh;
+}
+  
+.container {
+   text-align: center;
+   padding: 115px;
+}
+  
+.page-title {
+   color: #ffd700;
+   margin: 0 0 5px;
+}
+  
+.page-subtitle {
+   color: #ffd700;
+   margin-top: 5px;
+}
+  
+.page-logo {
+   width: 200px;
+}
+  
+body > img {
+   margin: 0 10px;
+}
+  
+img {
+   max-height: 250px;
+}
+
+
+
+
